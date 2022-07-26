@@ -1,5 +1,5 @@
 {
-  "login": { "user": {"id" : 1, "name": "Leonardo"}, "erro": null, "token": "TOKEN" }
+  "login": { "user": {"id" : 1, "name": "Leonardo"}, "erro": null, "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9" }
   ,
   "pedidos": [
     { "id": 8, "dataEmissao": "26/07/2022", "numeroPedido": 8, "totalFaturado": 99, "loja": "LATICINIOS TIROLEZ LTDA", "qtdeItens": 15},
