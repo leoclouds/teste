@@ -1,12 +1,15 @@
 {
   "login": { "user": {"id" : 1, "name": "Leonardo"}, "erro": null, "token": "TOKEN" }
   ,
-  "alunos": [
-    { "id": 1, "nome": "Marcela da Silva", "curso": 1 },
-    { "id": 2, "nome": "José Luiz Felipe", "curso": 2 },
-    { "id": 3, "nome": "Paulo Rogério", "curso": 3 },
-    { "id": 4, "nome": "Felipe da Cunha", "curso": 1 },
-    { "id": 5, "nome": "Luiza Cardoso Pereira", "curso": 1 }
+  "pedidos": [
+    { "id": 8, "dataEmissao": "26/07/2022", "numeroPedido": 8, "totalFaturado": 99, "loja": "LATICINIOS TIROLEZ LTDA", "qtdeItens": 15},
+    { "id": 7, "dataEmissao": "26/07/2022", "numeroPedido": 7, "totalFaturado": 395, "loja": "DELLISUL COMERCIO DE PROD. ALIM. LTDA", "qtdeItens": 30},
+    { "id": 6, "dataEmissao": "23/07/2022", "numeroPedido": 6, "totalFaturado": 450, "loja": "MEZZANI ALIMENTOS LTDA", "qtdeItens": 45},
+    { "id": 5, "dataEmissao": "23/07/2022", "numeroPedido": 5, "totalFaturado": 578, "loja": "OMAMORI INDUSTRIA DE ALIMENTOS LTDA.", "qtdeItens": 75},
+    { "id": 4, "dataEmissao": "20/07/2022", "numeroPedido": 4, "totalFaturado": 154, "loja": "IND. E COM. DE LATICINIOS MARIA MADALENA DE SOUZA", "qtdeItens": 7},
+    { "id": 3, "dataEmissao": "20/07/2022", "numeroPedido": 3, "totalFaturado": 222, "loja": "TROP FRUTAS DO BRASIL LTDA", "qtdeItens": 9},
+    { "id": 2, "dataEmissao": "20/07/2022", "numeroPedido": 2, "totalFaturado": 784, "loja": "LATICINIOS SILVA E OLIVEIRA LTDA", "qtdeItens": 5},
+    { "id": 1, "dataEmissao": "19/07/2022", "numeroPedido": 1, "totalFaturado": 109, "loja": "NORAC DO BRASIL IND E COM. DE PROD. ALIM. LTDA", "qtdeItens": 33}
   ],
   "empresa": {
     "nome": "Code Prestige"
